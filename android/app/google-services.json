@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "289153197281",
+    "project_id": "smartpetcare-d7ecc",
+    "storage_bucket": "smartpetcare-d7ecc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289153197281:android:958907154e021e442483a0",
+        "android_client_info": {
+          "package_name": "com.example.smartpetcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289153197281-qt4uampc2ggle0hgb1n4cvgaafaosjhr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartpetcare",
+            "certificate_hash": "8a043124c68b7ad90247f91826a9c0bcafac17de"
+          }
+        },
+        {
+          "client_id": "289153197281-55sn1uk160rk6vvs3ne7vsg22htavukg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVPUGHpKk_VTJzUADq7YWy40rDPPPZirk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289153197281-55sn1uk160rk6vvs3ne7vsg22htavukg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
